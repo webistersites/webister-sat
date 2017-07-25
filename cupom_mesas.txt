@@ -1,0 +1,22 @@
+               PONTO DA ESFIHA
+            Av. Rio Pequeno, 634
+---------------------------------------------
+              12/05/2017 16:36
+                N. Cupom: 679
+             *Sem valor fiscal*
+*********************************************
+             RELATORIO GERENCIAL
+*********************************************
+               Itens - Mesa 7
+Cod. Produto                       V. U Qt Total      
+459  BEIRUTE FRANGO C/ CATUPIRY    19.9  1 19.99      
+693  DOLLY 2L                      6.50  1  6.50      
+------------------------------------------------
+SUBTOTAL R$ 26,49
+*Taxa de servico R$ 2,65
+TOTAL R$ 29,14
+------------------------------------------------
+
+Forma: Cartao de Debito
+
+--

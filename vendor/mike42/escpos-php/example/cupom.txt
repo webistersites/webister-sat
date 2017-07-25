@@ -1,0 +1,20 @@
+      PONTO DA ESFIHA
+    Av. Rio Pequeno, 634
+ -------------------------
+      11/05/2017 00:54
+       N. Cupom: 634
+     *Sem valor fiscal*
+ **************************
+    RELATORIO GERENCIAL
+ **************************
+           Itens
+Cod.Produto              Tot Qt V. UN      
+0   1/2-MUSSARELA/CALABR19.9  1 19.99      
+202 ESFIHA QUEIJO       2.00  1  2.00      
+----------------------------
+              TOTAL R$ 21,99
+----------------------------
+
+Forma: Cartao de Debito
+Senha: 558
+--
